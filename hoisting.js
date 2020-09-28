@@ -6,9 +6,7 @@ function callMe() {
   var lyric = "maybe";
   return lyric;
 }
-
-callMe()
-
+var callMe = callMe();
 
 function crazy() {
   // fix the code in here:
